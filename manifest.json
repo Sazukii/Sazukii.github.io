@@ -2,7 +2,7 @@
     "short_name":   "LC",
     "name": "Landcodes",
     "icons" : [
-        {"src": "/res/drawable-xxxhdpi", "sizes" : "48x48", "type": "image/svg"}
+        {"src": "/drawable-xxxhdpi", "sizes" : "48x48", "type": "image/svg"}
     ],
     "start_url" : "index.html",
     "display" : "standalone"
