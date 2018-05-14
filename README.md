@@ -1,2 +1,2 @@
 # Sazukii.github.io
-https://sazukii.github.io/
+https://Sazukii.github.io/
