@@ -1,7 +1,9 @@
 {
     "short_name":   "LC",
     "name": "Landcodes",
-    "icons" : [],
+    "icons" : [
+        {"src": "/baseline-polymer-24px.svg", "sizes" : "192x192", "type": "image/png"}
+    ],
     "start_url" : "landcode.html",
     "display" : "standalone"
 }
