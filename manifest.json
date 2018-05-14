@@ -1,0 +1,7 @@
+{
+    "short_name":   "LC",
+    "name": "Landcodes",
+    "icons" : [],
+    "start_url" : "landcode.html",
+    "display" : "standalone"
+}
